@@ -15,7 +15,7 @@ Excellent Minds seeks to improve student outcomes by understanding:
 # Dataset
 - 1,000 students
 - 8 features including:
-  math score, reading score, writing score, gender, parental education, lunch, test preparation
+  `math score`, `reading score`, `writing score`, `gender`, `parental education`, `lunch`, `test preparation`
 - Mix of demographic and performance data
 
 # Tools & Technologies
