@@ -123,4 +123,3 @@ This analysis enables:
 ## Next Steps
 - Build a student performance prediction model
 - Develop early-warning systems for at-risk students
-- Create an interactive Tableau dashboard for educators
