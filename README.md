@@ -50,6 +50,9 @@ data.groupby(['parental level of education','gender'])['reading score'].mean()
 **Python (Jupyter Notebook)**
 - 📌 Score distributions across math, reading, and writing subjects
 - 📌 Demographic comparisons across gender and race/ethnicity
+<img width="378" height="382" alt="Bar chart_Gender count" src="https://github.com/user-attachments/assets/601d9160-3c76-455d-b7da-d1fcc0dbb2b6" />
+
+
 - 📌 Impact analysis for test preparation course, lunch type, and parental education level
 - 📌 Correlation heatmaps and regression plots across score variables
 <img width="874" height="315" alt="Heat map_Numerical features1" src="https://github.com/user-attachments/assets/3dfc5c0a-f8ba-49d1-8125-abb47150f9a3" />
@@ -67,7 +70,7 @@ data.groupby(['parental level of education','gender'])['reading score'].mean()
 - 📌 Bar charts: Average math, reading, and writing scores across parental levels of education
 - 📌 Bar charts: Average math, reading, and writing scores across lunch groups
 
-[Dashboard Overview]
+[**Dashboard Overview**]
 <img width="1366" height="768" alt="Screenshot (585)" src="https://github.com/user-attachments/assets/ecce27df-a579-44bb-9698-1021e856aade" />
 
   🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/StudentAcademicPerformanceDemographicProfileAnalysis/StudentReadingScoreSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
