@@ -46,10 +46,32 @@ data.groupby(['parental level of education','gender'])['reading score'].mean()
 ```
 
 ## Visualization / Dashboard
-- Score distributions across subjects
-- Demographic comparisons (gender, race/ethnicity)
-- Impact analysis (test prep, lunch type, parental education)
-- Correlation heatmaps and regression plots
+
+**Python (Jupyter Notebook)**
+- 📌 Score distributions across math, reading, and writing subjects
+- 📌 Demographic comparisons across gender and race/ethnicity
+- 📌 Impact analysis for test preparation course, lunch type, and parental education level
+- 📌 Correlation heatmaps and regression plots across score variables
+<img width="874" height="315" alt="Heat map_Numerical features1" src="https://github.com/user-attachments/assets/3dfc5c0a-f8ba-49d1-8125-abb47150f9a3" />
+
+---
+
+**Tableau**
+- 📌 Highlight table: Student gender distribution across the dataset
+- 📌 Highlight table: Average math, reading, and writing scores across gender groups
+- 📌 Highlight table: Average math, reading, and writing scores across test preparation course completion status
+- 📌 Scatter plot: Average reading score against math score across gender groups
+- 📌 Scatter plot: Average reading score against writing score across gender groups
+- 📌 Scatter plot: Average writing score against math score across gender groups
+- 📌 Bar charts: Average math, reading, and writing scores across race/ethnicity groups
+- 📌 Bar charts: Average math, reading, and writing scores across parental levels of education
+- 📌 Bar charts: Average math, reading, and writing scores across lunch groups
+
+[Dashboard Overview]
+<img width="1366" height="768" alt="Screenshot (585)" src="https://github.com/user-attachments/assets/ecce27df-a579-44bb-9698-1021e856aade" />
+
+🔗 **[View Tableau Charts](https://public.tableau.com/views/StudentAcademicPerformanceDemographicProfileAnalysis/StudentReadingScoreSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+<img width="874" height="315" alt="Heat map_Numerical features1" src="https://github.com/user-attachments/assets/e73d7d79-176b-4aba-8305-27142b363d29" />
 
 ## Key Insights
 **Academic Performance Trends**
