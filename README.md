@@ -70,8 +70,8 @@ data.groupby(['parental level of education','gender'])['reading score'].mean()
 [Dashboard Overview]
 <img width="1366" height="768" alt="Screenshot (585)" src="https://github.com/user-attachments/assets/ecce27df-a579-44bb-9698-1021e856aade" />
 
-🔗 **[View Tableau Charts](https://public.tableau.com/views/StudentAcademicPerformanceDemographicProfileAnalysis/StudentReadingScoreSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-<img width="874" height="315" alt="Heat map_Numerical features1" src="https://github.com/user-attachments/assets/e73d7d79-176b-4aba-8305-27142b363d29" />
+  🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/StudentAcademicPerformanceDemographicProfileAnalysis/StudentReadingScoreSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 
 ## Key Insights
 **Academic Performance Trends**
